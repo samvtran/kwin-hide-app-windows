@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Hide App Windows
+Comment=Hide the Active Application's Windows
+Icon=preferences-system-windows-script-test
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=Sam Tran
+X-KDE-PluginInfo-Email=sam@samvtran.com
+X-KDE-PluginInfo-Name=kwin-hide-app-windows
+X-KDE-PluginInfo-Version=1.0
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=MIT
+X-KDE-ServiceTypes=KWin/Script,KCModule
+Type=Service
